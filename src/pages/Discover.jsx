@@ -41,7 +41,7 @@ const Discover = () => {
             isPlaying={isPlaying}
             activeSong={activeSong}
             data ={data}
-            i={i}
+            // i={i}
           />
         ))}
       </div>
